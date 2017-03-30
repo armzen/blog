@@ -1,0 +1,50 @@
+﻿1. Новый контроллер AppController потомок \yii\web\Controller;
+
+namespace	  app\controllers;
+use	 \yii\web\Controller;
+
+class AppController extends Controller{
+	// methods here will extends by descendants
+}
+----------------------------------
+Новый контроллер потомок другого и действия в нем
+
+2. PostController Потомок \yii\web\AppController; запишется следующим способом
+2.1 Действия объявляются в контроллерах. 
+2.3 Yii использует префикс action чтобы различать методы-действия и обычные методы
+2.4 Название после префикса action считается идентификатором соответствующего действия.
+2.5 ID of method actionCreateComment => create-comment.
+namespace  app\controllers;
+
+class PostController extends AppController {
+
+	public function actionSayYes($who = 'I', $yes = 'yes') {
+		$say = "$who  said $yes";
+		return $this->render('sayyes',compact('who', 'yes','say'));
+	}
+}
+++++++++++++++++++++++++++++
+Info: Новая страница использует ту же шапку и футер, что и другие страницы, потому что метод render()
+ автоматически вставляет результат представления say в, так называемый, 
+макет views/layouts/main.php.
+--------------------------------
+
+Создание Представления
+---------------------------
+ Когда метод render() вызывается в действии, он будет искать PHP файл с именем вида
+ views/ControllerID/ViewName.php.
+	или тоннее...
+ views/ControllerID/ActionID/ViewName.php.
+r = ControllerID/ActionID - маршрутизация
+
+-----------------------------
+views/site/sayyes.php:
+
+<?php
+use yii\helpers\Html;
+?>
+<?= Html::encode($say) ?>
+-------------------------------
+URL:
+
+http://hostname/index.php?r=post%2Fsay-yes&say

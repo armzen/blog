@@ -1,0 +1,49 @@
+NEWS
+header
+image_id
+date
+released   (reserved on mysql)
+intro_text
+full_text
+lang_id
+
+
+First item:>F880648.jpg<
+
+>link on slider/ header of article.<
+
+
+Ադրբեջանի կողմից ռազմական արկածախնդրության նոր փորձերը կարող են անկանխատեսելի հետևանքներ ունենալ հենց իր համար. ՀՀ Նախագահ
+
+
+Military adventurism by Azerbaijan can have unpredictable consequences for itself – President Sargsyan
+
+
+Новые попытки военных авантюр со стороны Азербайджана могут иметь непредсказуемые последствия именно для самого Азербайджана: президент Армении.
+
+
+Date:
+17:10, 28 Փետրվար, 2017
+
+17:10, 28 February, 2017
+
+17:10, 28 Февраль, 2017
+
+
+ԵՐԵՎԱՆ, 28 ՓԵՏՐՎԱՐԻ, ԱՐՄԵՆՊՐԵՍ:
+2016թ. ապրիլին Ադրբեջանի սանձազերծած քառօրյա ռազմական արկածախնդրությունը Բաքվի երկարամյա ռազմատենչ քաղաքականության և քարոզչության կենսագործումն էր: «Կարնեգի» հիմնադրամի Բրյուսելի գրասենյակի փորձագետների հետ հանդիպմանն այդ մասին հայտարարել է ՀՀ Նախագահ Սերժ Սարգսյանը՝ ավելացնելով, որ այն լուրջ վնաս հասցրեց կարգավորման գործընթացին: ՀՀ Նախագահի խոսքով, Ադրբեջանի ագրեսիան կրկին ապացուցեց, որ Արցախի ժողովրդի պայքարը սեփական հողի վրա անվտանգ գոյության ու ազատության համար այլընտրանք չի ունեցել ու այսօր էլ չունի:
+
+«Սա կարծիք չէ, այլ Ադրբեջանի վարած քաղաքականության արդյունքում ստեղծված և մեզ պարտադրված իրականություն: Ահավասիկ, ապրիլյան պատերազմին հետևած՝ Վիեննայի և Սանկտ Պետերբուրգի հանդիպումներում ձեռք բերվեցին հստակ պայմանավորվածություններ 1994-1995թթ. հրադադարի եռակողմ անժամկետ համաձայնագրերի իրականացման, ինչպես նաև հակամարտության գոտում այդ ռեժիմի խախտումների հետաքննության մեխանիզմի ստեղծման վերաբերյալ: Սակայն Ադրբեջանն իր՝ արդեն սովորական դարձած վարքագծի համաձայն շարունակաբար խուսափում է այդ պայմանավորվածությունների իրականացումից՝ հայտարարելով, որ դրանց իրագործումն իբր ամրապնդելու է ձևավորված ստատուս քվոն Լեռնային Ղարաբաղում: Եթե Ադրբեջանն իրապես մտահոգված է Լեռնային Ղարաբաղում ստատուս քվոյի փոփոխությամբ, ապա միայն մի տարբերակ կա փոխելու այն՝ դա Լեռնային Ղարաբաղի ժողովրդի ինքնորոշման իրավունքի ճանաչումն է»:
+
+
+YEREVAN, FEBRUARY 28, ARMENPRESS.
+ The 4-day military adventurism unleashed by Azerbaijan in April 2016 was the materialization of years of militaristic policies and propaganda of Baku, President of Armenia Serzh Sargsyan announced in a meeting with the experts of Carnegie Foundation’s Brussels Office, adding that it was a serious blow to the peace process. According to the President of Armenia, the Azerbaijani aggression once again demonstrated that the struggle of the people of Artsakh for its safe existence and freedom on its own land had and today has no alternative.
+
+ “This is not an opinion but a reality created and enforced upon us by the Azerbaijani policy. There are strictly defined agreements reached in Vienna and Saint Petersburg after the April war, related to upholding of the unlimited tri-party ceasefire agreements of 1994-1995 and on the creation in the conflict zone of the mechanisms to investigate violations of the ceasefire regime. However, Azerbaijan, true to its long-standing tradition, refuses to implement these agreements and declares that their implementation will allegedly reinforce the existing status quo in Nagorno Karabakh. If Azerbaijan is truly concerned with changing the status quo in Nagorno Karabakh, there is only one way to do it – to recognize the right of the people of Nagorno Karabakh to self-determination”, “Armenpress” reports Serzh Sargsyan saying. He added that it would be naïve to assume that Azerbaijan was unaware of the heavy blow it dealt to the peace process, how much it reinforced the status quo and how much it pushed pack the peace process.
+
+ЕРЕВАН, 28 февраля АРМЕНПРЕСС
+Развязанная Азербайджаном в апреле 2016 года четырёхдневная военная авантюра была воплощением в жизнь многолетней милитаристской политики и пропаганды Баку. Как сообщает Арменпресс, об этом в своей речи на встрече с экспертами Центра «Карнеги» заявил президент Армении Серж Саргсян.
+
+Президент отметил, что эта авантюра нанесла серьёзный вред процессу урегулирования. Азербайджанская агрессия вновь доказала, что борьба народа Арцаха за безопасное существование и свободу на собственной земле не имела и сегодня не имеет альтернативы.
+
+Это не мнение, а созданная в результате проводимой Азербайджаном политики и навязанная нам реальность. Вот, на последовавших за апрельской войной встречах в Вене и Санкт-Петербурге были достигнуты чёткие договорённости относительно реализации бессрочных трехсторонних соглашений 1994-1995гг. о перемирии, а также о создании механизмов расследования нарушений этого режима в зоне конфликта. Однако Азербайджан, согласно уже ставшему привычным поведению, по прежнему уклоняется от выполнения этих договорённостей, заявляя, что их реализация, будто бы, укрепит сформированный статус-кво в Нагорном Карабахе. Если Азербайджан, действительно, озабочен изменением статус-кво по Нагорному Карабаху, есть лишь один вариант его изменить - это признание права народа Нагорного Карабаха на самоопределение.

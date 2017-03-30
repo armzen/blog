@@ -1,0 +1,12 @@
+about
+images
+
+lang
+menu
+news
+
+contacts
+subscribe
+login-logout
+
+

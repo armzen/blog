@@ -1,0 +1,23 @@
+/*
+*@Only for news section blog/
+*/
+
+#news #full_text{
+    font-size: 16px;
+    padding-left: 12px;
+}
+#news #news-image{
+    margin-right: 6px;
+}
+#news #img{
+    filter:brightness(110%);
+    filter: saturate(1.2);
+}
+#news #img:hover{
+    filter:brightness(120%);
+    filter: saturate(1.5);
+}
+
+.news-date {
+    margin: 0;
+}

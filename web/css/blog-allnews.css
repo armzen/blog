@@ -1,0 +1,14 @@
+/* 
+    Created on : 09.03.2017, 20:58:34
+    Author     : arm
+*/
+.allnews-header {
+    white-space: nowrap; /* Запрещаем перенос строк */
+    overflow: hidden; /* Обрезаем все, что не помещается в область */
+    
+    padding: 8px; /* Поля вокруг текста */
+    text-overflow: ellipsis; /* Добавляем многоточие */
+    background-color:#e7dbff;
+    border-radius: 3px;
+
+}
